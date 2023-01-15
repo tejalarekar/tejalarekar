@@ -1,12 +1,13 @@
 [![MasterHead](https://https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)](https://https://github.com/tejalarekar)
+
 <h1 align="center">Hi 👋, I'm Tejal</h1>
 <h3 align="center">Without Data you are just another person with Opinion</h3>
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
+
 - 🔭 I’m currently working on &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#160;&nbsp;&nbsp;     **Machine Learning and NLP**  <br>
 - 🔭 Technical Language working on &nbsp;**Python** <br>
-- 🔭 Libraries knows          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     **Numpy Pandas SkLearn Matplotlib Seaborn NLTK &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Gensim textblob langdetect googletrans **
+- 🔭 Libraries knows   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#160;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#160;&nbsp;&nbsp;&nbsp;&nbsp;&#160;  Numpy Pandas Pytesseract SkLearn Matplotlib Seaborn NLTK Gensim textblob langdetect googletrans 
 
-
+<img align="right" alt="Coder GIF" height=350 width=450 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
 <p align="left">
 </p>
 
